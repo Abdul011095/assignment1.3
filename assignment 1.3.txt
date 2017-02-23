@@ -1,0 +1,29 @@
+1. pwd:It prints the current directory name with the complete path starting from root
+
+2. vi:It is to get into the virtual editor
+
+3. touch:To create new,empty files also used to change timestamps 
+
+4. mkdir:TO create an directory
+
+5. rm:TO remove file in a directory
+
+6. ls: lists directory contents of files and directories
+
+7. echo:used to print the content as user wish 
+ 
+8. cat:TO create single or multiple files
+
+9. who:to display the users who are currently logged in your server
+
+10. cd:to change the current directory
+
+11. date:to display system date and time
+
+12. cal: to display calander of this month
+
+13. mv : to move or rename files
+
+14. cp : to make copies of files and directories
+
+15. which :to find the executable file associated with a given command name
